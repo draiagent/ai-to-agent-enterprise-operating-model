@@ -54,8 +54,8 @@
 
 AI Coach 益力康陳董 × CGM Coach 血糖教練｜2026 AI to Agent
 
-Copyright © 2026 陳俊宏。All rights reserved.
+Copyright © 2026 AI Coach 益力康陳董。All rights reserved.
 
 本版未授予 MIT、Apache 或 Creative Commons 等開放授權。公開展示不等於授予任意商用、改作或再散布權；使用條件見 [LICENSE](LICENSE)。這是保留權利的文件專案，不宣稱為開源專案。
 
-建議引用：陳俊宏（2026）。《AI to Agent Enterprise Operating Model：企業導入方法論》（1.0.0 版）。
+建議引用：AI Coach 益力康陳董（2026）。《AI to Agent Enterprise Operating Model：企業導入方法論》（1.0.0 版）。
