@@ -1,4 +1,4 @@
-# AI to Agent｜企業導入方法論
+﻿# AI to Agent｜企業導入方法論
 
 **AI to Agent Enterprise Operating Model**  
 版本：**1.0.0**｜發布日期：**2026-09-22**｜語言：繁體中文
@@ -51,6 +51,8 @@
 | [貢獻規則](CONTRIBUTING.md) | 修正建議與內容維護 |
 
 ## 版權與引用
+
+AI Coach 益力康陳董 × CGM Coach 血糖教練｜2026 AI to Agent
 
 Copyright © 2026 陳俊宏。All rights reserved.
 
