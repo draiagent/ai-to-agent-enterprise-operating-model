@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "引用本方法論時，請註明作者、標題、版本及發布年份。"
+type: manual
+title: "AI to Agent Enterprise Operating Model：企業導入方法論"
+authors:
+  - family-names: "陳"
+    given-names: "俊宏"
+version: 1.0.0
+date-released: 2026-09-22
+abstract: "以 VAD、VAC、DC 定義企業工作，結合六環節工作閉環、四級自主權及全程人類治理。"
+keywords:
+  - AI to Agent
+  - VAD
+  - VAC
+  - DC
+  - Enterprise Governance
